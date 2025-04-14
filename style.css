@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background: #020d1f;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 50px;
+    letter-spacing: 2px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    gap: 20px;
+  }
+  
+  .time-box {
+    background-color: #00bfff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    width: 100px;
+  }
+  
+  .time-box span {
+    font-size: 48px;
+    display: block;
+  }
+  
+  .time-box p {
+    margin-top: 10px;
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+  
+  .pink {
+    background-color: #ff4081;
+  }
