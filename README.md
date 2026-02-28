@@ -1,4 +1,4 @@
-# Digital Clock Project
+# 🕒 Digital Clock Project.
 
 This is a simple digital clock made with HTML, CSS, and JavaScript.
 
