@@ -11,5 +11,5 @@ This is a simple digital clock made with HTML, CSS, and JavaScript.
 1. Download the project files.
 2. Open `index.html` in any browser to view the clock.
 
-###🙎‍♂️ Created by:
+### 🙎‍♂️ Created by:
 - Utkarsh Punkar
