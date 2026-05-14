@@ -10,6 +10,7 @@ This is a simple digital clock made with HTML, CSS, and JavaScript.
 ### 🏃‍♂️ How to run:
 1. Download the project files.
 2. Open `index.html` in any browser to view the clock.
+#Pair test 2
 
 ### 🙎‍♂️ Created by:
 - Utkarsh Punkar
